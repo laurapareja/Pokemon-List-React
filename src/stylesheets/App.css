@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+  padding: 30px;
+}
+.info{
+  display: flex;
+  align-items: center;
+  padding-left: 70px;
+
+}
+.boxFavorite{
+  width: 25px;
+  height: 25px;
+  border: solid 1.5px black;
+  background-color: pink;
+}
+.infoTitle{
+  width: 230px;
+}
